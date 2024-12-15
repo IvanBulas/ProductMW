@@ -1,2 +1,0 @@
-# ProductMW
-Practice assignment
